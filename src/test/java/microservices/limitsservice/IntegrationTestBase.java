@@ -1,8 +1,7 @@
-package microservices;
+package microservices.limitsservice;
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
-import microservices.LimitsServiceApplication;
 import org.junit.Before;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;

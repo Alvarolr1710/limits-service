@@ -1,6 +1,6 @@
-package microservices.controller;
+package microservices.limitsservice.controller;
 
-import microservices.IntegrationTestBase;
+import microservices.limitsservice.IntegrationTestBase;
 import org.junit.Test;
 
 import static io.restassured.RestAssured.given;
